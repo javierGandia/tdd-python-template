@@ -13,7 +13,7 @@ def resta(x, y):
     >>> resta(10, 5)
     5
     """
-    pass
+    return x - y
 
 
 def multiplicacion(x, y):
@@ -22,7 +22,7 @@ def multiplicacion(x, y):
     >>> multiplicacion(10, 5)
     50
     """
-    pass
+    return x * y
 
 
 def division(x, y):
@@ -31,6 +31,7 @@ def division(x, y):
     >>> division(10, 5)
     2.0
     """
+    return x / y
     pass
 
 
@@ -40,6 +41,7 @@ def cociente(x, y):
     >>> cociente(11, 5)
     2
     """
+    return x // y
     pass
 
 
@@ -49,4 +51,5 @@ def resto(x, y):
     >>> resto(11, 5)
     1
     """
+    return x % y
     pass

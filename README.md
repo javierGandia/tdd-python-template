@@ -33,4 +33,6 @@ Proyecto base para crear aplicaciones siguiendo la metodología TDD
 - [PyTest With GitHub Actions](https://blog.dennisokeeffe.com/blog/2021-08-08-pytest-with-github-actions)
 - [Documentación del framework `pytest` para la realización de pruebas en Python](https://docs.pytest.org/)
 
-![flujo de trabajo de ejemplo](https://github.com/javierGandia/tdd-python-template/actions/workflows/main.yml/badge.svg)
+![flujo de trabajo de ejemplo](https://github.com/javierGandia/tdd-python-template/actions/workflows/python-app.yml/badge.svg)
+
+[![Python application](https://github.com/javierGandia/tdd-python-template/actions/workflows/python-app.yml/badge.svg?branch=master&event=status)](https://github.com/javierGandia/tdd-python-template/actions/workflows/python-app.yml)
